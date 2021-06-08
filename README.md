@@ -6,6 +6,7 @@ This is a Node, Express, Handlebars, and MySQL burger app that lets users input 
 This application will demonstrate a full stack application with a front end implemented with HTML/CSS and the backend implemented with Node.js and Express. HTML templating is done with the help of Handlebars.
 
 
+
 ## Installation 
 To run the application locally, first clone this repository.
 

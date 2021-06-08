@@ -3,7 +3,7 @@
 ## Desciption 
 This is a Node, Express, Handlebars, and MySQL burger app that lets users input the names of burgers they'd like to eat... and then devour them! The app is partially working and I have planse to fix it in the coming months!!! 
 
-This application will demonstrate a full stack application with a front end implemented with HTML/CSS and elements from the Materialize framework and the backend implemented with Node.js and Express. HTML templating is done with the help of Handlebars.
+This application will demonstrate a full stack application with a front end implemented with HTML/CSS and the backend implemented with Node.js and Express. HTML templating is done with the help of Handlebars.
 
 
 ## Installation 
